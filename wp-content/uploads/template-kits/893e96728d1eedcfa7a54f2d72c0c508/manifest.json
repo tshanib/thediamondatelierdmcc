@@ -1,0 +1,1045 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Jewella",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 01 - Stores",
+            "screenshot": "screenshots\/page-01-stores.jpg",
+            "source": "templates\/page-01-stores.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-01-stores\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 02 - Our services",
+            "screenshot": "screenshots\/page-02-our-services.jpg",
+            "source": "templates\/page-02-our-services.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-02-our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 03 - About us",
+            "screenshot": "screenshots\/page-03-about-us.jpg",
+            "source": "templates\/page-03-about-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-03-about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 04 - Contact us",
+            "screenshot": "screenshots\/page-04-contact-us.jpg",
+            "source": "templates\/page-04-contact-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-04-contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 05 - FAQs",
+            "screenshot": "screenshots\/page-05-faqs.jpg",
+            "source": "templates\/page-05-faqs.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-05-faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 06 - Gallery",
+            "screenshot": "screenshots\/page-06-gallery.jpg",
+            "source": "templates\/page-06-gallery.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-06-gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 07 - Our Team",
+            "screenshot": "screenshots\/page-07-our-team.jpg",
+            "source": "templates\/page-07-our-team.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-07-our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 08 - Payments",
+            "screenshot": "screenshots\/page-08-payments.jpg",
+            "source": "templates\/page-08-payments.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-08-payments\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 09 - What we do",
+            "screenshot": "screenshots\/page-09-what-we-do.jpg",
+            "source": "templates\/page-09-what-we-do.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/template-kit\/page-09-what-we-do\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/?elementor_library=theme-builder-footer-elementor-pro-2",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/?elementor_library=theme-builder-header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "silver-female-necklace-D6MSUYB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/silver-female-necklace-D6MSUYB-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 127940,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D6MSUYB"
+        },
+        {
+            "filename": "Engagement-Ring.G03.2k1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/Engagement-Ring.G03.2k1-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/page-06-gallery.json",
+                    "name": "Page 06 - Gallery"
+                }
+            ],
+            "filesize": 533041,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/engagement-ring-Q8UYNB"
+        },
+        {
+            "filename": "tes.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/tes-600x641.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 695145,
+            "dimensions": [
+                1094,
+                1169
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diamond-ring-7HU2WB"
+        },
+        {
+            "filename": "Silver-Wedding-Rings.H03.2k.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/Silver-Wedding-Rings.H03.2k-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/page-06-gallery.json",
+                    "name": "Page 06 - Gallery"
+                }
+            ],
+            "filesize": 325148,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/silver-wedding-rings-U8JXZK"
+        },
+        {
+            "filename": "Wedding-Ring.H03.2k.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/Wedding-Ring.H03.2k-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 184157,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wedding-ring-XHVYT4"
+        },
+        {
+            "filename": "ring01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/07\/ring01-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 252143,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ring-M2YQEAW"
+        },
+        {
+            "filename": "ring03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/07\/ring03-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 422964,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/snake-ring-metal-JQZE3P8"
+        },
+        {
+            "filename": "the-girl-works-on-a-jewelry-in-the-workshop-WGUR6KQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/the-girl-works-on-a-jewelry-in-the-workshop-WGUR6KQ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 69610,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WGUR6KQ"
+        },
+        {
+            "filename": "shapes.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/shapes-600x894.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                }
+            ],
+            "filesize": 356,
+            "dimensions": [
+                1198,
+                1786
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ring-decorated-with-crystal-Z3TFYJH.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/ring-decorated-with-crystal-Z3TFYJH-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 76078,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z3TFYJH"
+        },
+        {
+            "filename": "ring-with-diamonds-P9BVZZT.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/ring-with-diamonds-P9BVZZT-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 49853,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9BVZZT"
+        },
+        {
+            "filename": "ring-with-stones-PEZ2426.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/ring-with-stones-PEZ2426-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 103721,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEZ2426"
+        },
+        {
+            "filename": "brand04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/brand04.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8789,
+            "dimensions": [
+                418,
+                187
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/brand03-600x146.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                }
+            ],
+            "filesize": 4714,
+            "dimensions": [
+                621,
+                151
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/brand02.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                }
+            ],
+            "filesize": 7497,
+            "dimensions": [
+                423,
+                180
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/brand01.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                }
+            ],
+            "filesize": 6391,
+            "dimensions": [
+                464,
+                172
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "brand.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/brand-600x194.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                }
+            ],
+            "filesize": 6188,
+            "dimensions": [
+                654,
+                211
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-beautiful-african-woman-wearing-traditional-PNFW2VJ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/young-beautiful-african-woman-wearing-traditional-PNFW2VJ-600x812.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                },
+                {
+                    "source": "templates\/page-03-about-us.json",
+                    "name": "Page 03 - About us"
+                }
+            ],
+            "filesize": 82035,
+            "dimensions": [
+                757,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNFW2VJ"
+        },
+        {
+            "filename": "womans-jewelry-beautiful-rhinestone-NP3LWM9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/womans-jewelry-beautiful-rhinestone-NP3LWM9-600x396.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                },
+                {
+                    "source": "templates\/page-06-gallery.json",
+                    "name": "Page 06 - Gallery"
+                }
+            ],
+            "filesize": 114759,
+            "dimensions": [
+                1024,
+                676
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NP3LWM9"
+        },
+        {
+            "filename": "silver-female-necklace-D6MSUYB-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/silver-female-necklace-D6MSUYB-2-600x396.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                },
+                {
+                    "source": "templates\/page-06-gallery.json",
+                    "name": "Page 06 - Gallery"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 121637,
+            "dimensions": [
+                1024,
+                676
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-D6MSUYB"
+        },
+        {
+            "filename": "ring-with-stones-PEZ2426-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/ring-with-stones-PEZ2426-1-600x396.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                },
+                {
+                    "source": "templates\/page-06-gallery.json",
+                    "name": "Page 06 - Gallery"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 79530,
+            "dimensions": [
+                1024,
+                676
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEZ2426"
+        },
+        {
+            "filename": "ring-with-diamonds-P9BVZZT-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/ring-with-diamonds-P9BVZZT-1-600x396.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                },
+                {
+                    "source": "templates\/page-06-gallery.json",
+                    "name": "Page 06 - Gallery"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 40838,
+            "dimensions": [
+                1024,
+                676
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9BVZZT"
+        },
+        {
+            "filename": "closeup-of-diamond-ring-PNGHJ2R-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/closeup-of-diamond-ring-PNGHJ2R-1-600x343.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-stores.json",
+                    "name": "Page 01 - Stores"
+                },
+                {
+                    "source": "templates\/page-02-our-services.json",
+                    "name": "Page 02 - Our services"
+                },
+                {
+                    "source": "templates\/page-06-gallery.json",
+                    "name": "Page 06 - Gallery"
+                }
+            ],
+            "filesize": 36363,
+            "dimensions": [
+                1024,
+                586
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNGHJ2R"
+        },
+        {
+            "filename": "Rectangle-883.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/Rectangle-883-600x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-our-services.json",
+                    "name": "Page 02 - Our services"
+                }
+            ],
+            "filesize": 91393,
+            "dimensions": [
+                1024,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEZ2426"
+        },
+        {
+            "filename": "ring-decorated-with-crystal-Z3TFYJH.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/ring-decorated-with-crystal-Z3TFYJH-600x500.png",
+            "templates": [
+                {
+                    "source": "templates\/page-02-our-services.json",
+                    "name": "Page 02 - Our services"
+                }
+            ],
+            "filesize": 702972,
+            "dimensions": [
+                1024,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z3TFYJH"
+        },
+        {
+            "filename": "silver-female-necklace-D6MSUYB-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/silver-female-necklace-D6MSUYB-1-600x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-our-services.json",
+                    "name": "Page 02 - Our services"
+                },
+                {
+                    "source": "templates\/page-07-our-team.json",
+                    "name": "Page 07 - Our Team"
+                }
+            ],
+            "filesize": 155470,
+            "dimensions": [
+                1024,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-D6MSUYB"
+        },
+        {
+            "filename": "wedding-rings-NTTLT45.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/wedding-rings-NTTLT45-600x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-our-services.json",
+                    "name": "Page 02 - Our services"
+                }
+            ],
+            "filesize": 89209,
+            "dimensions": [
+                1024,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NTTLT45"
+        },
+        {
+            "filename": "Diamond-Ring.D12.2k.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/Diamond-Ring.D12.2k-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/page-02-our-services.json",
+                    "name": "Page 02 - Our services"
+                }
+            ],
+            "filesize": 283297,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/diamond-ring-7HU2WB"
+        },
+        {
+            "filename": "young-handsome-asian-businessman-against-black-bac-7N2ZBLJ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/young-handsome-asian-businessman-against-black-bac-7N2ZBLJ-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-about-us.json",
+                    "name": "Page 03 - About us"
+                },
+                {
+                    "source": "templates\/page-08-payments.json",
+                    "name": "Page 08 - Payments"
+                }
+            ],
+            "filesize": 111066,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7N2ZBLJ"
+        },
+        {
+            "filename": "sign-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/sign-1-600x170.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-about-us.json",
+                    "name": "Page 03 - About us"
+                },
+                {
+                    "source": "templates\/page-04-contact-us.json",
+                    "name": "Page 04 - Contact us"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 36651,
+            "dimensions": [
+                1079,
+                306
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "different-goldsmiths-tools-on-the-jewelry-workplac-QZ7F6RD.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/different-goldsmiths-tools-on-the-jewelry-workplac-QZ7F6RD-600x380.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-about-us.json",
+                    "name": "Page 03 - About us"
+                }
+            ],
+            "filesize": 63803,
+            "dimensions": [
+                1024,
+                648
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QZ7F6RD"
+        },
+        {
+            "filename": "young-handsome-asian-businessman-against-black-bac-7N2ZBLJ-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/young-handsome-asian-businessman-against-black-bac-7N2ZBLJ-1-600x641.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-contact-us.json",
+                    "name": "Page 04 - Contact us"
+                }
+            ],
+            "filesize": 113029,
+            "dimensions": [
+                958,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7N2ZBLJ"
+        },
+        {
+            "filename": "attractive-girl-portrait-in-a-white-shirt-PCUGGK4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/attractive-girl-portrait-in-a-white-shirt-PCUGGK4-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-07-our-team.json",
+                    "name": "Page 07 - Our Team"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 94952,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCUGGK4"
+        },
+        {
+            "filename": "face-of-a-beautiful-girl-with-fashion-makeup-and-b-XM3BLCH.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/face-of-a-beautiful-girl-with-fashion-makeup-and-b-XM3BLCH-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-07-our-team.json",
+                    "name": "Page 07 - Our Team"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 88278,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XM3BLCH"
+        },
+        {
+            "filename": "foto01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/foto01-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-07-our-team.json",
+                    "name": "Page 07 - Our Team"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 114384,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7N2ZBLJ"
+        },
+        {
+            "filename": "foto02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/foto02-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-07-our-team.json",
+                    "name": "Page 07 - Our Team"
+                },
+                {
+                    "source": "templates\/page-09-what-we-do.json",
+                    "name": "Page 09 - What we do"
+                }
+            ],
+            "filesize": 103160,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PP2P2BG"
+        },
+        {
+            "filename": "kutips-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/kutips-1.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-payments.json",
+                    "name": "Page 08 - Payments"
+                }
+            ],
+            "filesize": 4167,
+            "dimensions": [
+                311,
+                254
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "beautiful-young-woman-with-a-pet-rabbit-against-bl-PP2P2BG.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/beautiful-young-woman-with-a-pet-rabbit-against-bl-PP2P2BG-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-08-payments.json",
+                    "name": "Page 08 - Payments"
+                }
+            ],
+            "filesize": 112559,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PP2P2BG"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Footer (Elementor Pro)"
+                }
+            ],
+            "filesize": 12427,
+            "dimensions": [
+                483,
+                249
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_head.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/jewelkit\/wp-content\/uploads\/sites\/8\/2020\/04\/logo_head.jpg",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                }
+            ],
+            "filesize": 11198,
+            "dimensions": [
+                483,
+                249
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
